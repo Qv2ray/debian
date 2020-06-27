@@ -1,0 +1,17 @@
+Package: qv2ray
+Version: 2.6.0~rc4-1unstable1
+Architecture: amd64
+Maintainer: Guobang Bi <ymshenyu@gmail.com>
+Installed-Size: 4697
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.4), libgrpc++1, libgrpc9, libprotobuf22 (>= 3.11.4), libqt5core5a (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5widgets5 (>= 5.12.2), libstdc++6 (>= 5.2)
+Recommends: v2ray
+Homepage: https://github.com/Qv2ray/Qv2ray
+Priority: optional
+Section: net
+Filename: pool/main/q/qv2ray/qv2ray_2.6.0~rc4-1unstable1_amd64.deb
+Size: 1855288
+SHA256: 5c88508b1fdadd9c83915d44e83aef7d99b984ce5f9a81435f7b48ec7adfe880
+SHA1: 76945ff1508af963cc906f9e3fbce4f98cd52afb
+MD5sum: edb1b95f01ff6cd4518b5dd2b1e41d6e
+Description: Qv2ray, A Qt frontend for v2ray. Written in c++.
+
