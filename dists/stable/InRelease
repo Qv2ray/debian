@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Qv2ray
+Label: Qv2ray
+Codename: stable
+Date: Sat, 27 Jun 2020 04:41:38 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for project Qv2ray
+MD5Sum:
+ b7e974c36732837f569241d7849089ca 907 main/binary-amd64/Packages
+ ce63ec3598e68c1a837cdbfd9f19e68d 590 main/binary-amd64/Packages.gz
+ 1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
+SHA1:
+ 6386cd42803675edccc1688f2388e3f352c7b588 907 main/binary-amd64/Packages
+ 84e5147ac1f9b12d40dcf0db57e33b4ba1565765 590 main/binary-amd64/Packages.gz
+ 923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
+SHA256:
+ cc4a03d6adab6eb3157003c869f0e9cc79507059f985d41bd60d979fd0c3c284 907 main/binary-amd64/Packages
+ 81f6c58cbe5ce3955026f6aeb2395196100857259da881384cc2bdca7f8ce6ac 590 main/binary-amd64/Packages.gz
+ 102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEsTEUHwpqo99I2jhKJfhASNcAcIUFAl72zgIACgkQJfhASNcA
+cIWJgg//eK29dMFk1/UTWo8SlFEWbcSiu1zRcrdZFP/CEa+CzH1nOpCHQ8VwhcRg
+9gAGl58IwIlHbGa7IldD+6Y9+9YI8YrOCYWYjO1CW9VzIdzu9yGzFVCLFLSUd2Of
+vXe3blDoQB1HUOfLft+r4CDgLHJxSGqQZEXVBXs4kgNil+G8nqGH04nG9hJ47PEO
+srOXv0QlZsqpzr1F+vinOQXnwt3q5fF77f4zO/z2xwyVyqvGlFm7QUD0eJ06YwIj
+oavMnZqY06uETIn426lEIC9TUtr3riZ4hHKrfhIE3jAKjhOfHPtVMJ5WyzgpuhCw
+HPRCyheFHOhWcl0Kv2WaiCEVripnmvEeV9uuyBKLv3U+ewPcA6YjhaeS9ameOd0A
+/3+OkEhpw6PeeL5FxAy8AKf4ZDsPPDpj0UIkkdJIMwbSaDAt2K8lzU3he0aDL2GX
+hLPvK/ct7dY/cOc19aey8g9MOdhezDh/5XeJUfwVFTa6CWHOj1w+T6Jl5+IFXrhz
+Qb8Jt8N7iXx5gmf/+y7hWXYM3dP+PMwJs9kTlyr8hNl3lKEpkkxEiO1/GGQhR2FK
+HLM7bAUbcJhDcEkmDtqQ0EQU0aZA3Kc30/l5yvNGE+m+lF0gNB7hcCNqFefKubHj
+SqhCRigYBk2ujUwCYJQFA1YIiOklHLZMagcx3s5X1e1MvD1JYQU=
+=AcDI
+-----END PGP SIGNATURE-----
