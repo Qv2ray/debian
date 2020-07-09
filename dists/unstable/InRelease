@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: Qv2ray
 Label: Qv2ray
 Codename: unstable
-Date: Sat, 27 Jun 2020 00:31:01 UTC
+Date: Thu, 09 Jul 2020 16:49:16 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for project Qv2ray
 MD5Sum:
- eacbc6233c2cd7a87b231db0b1c8ad30 780 main/binary-amd64/Packages
- e47ee4ed73073dca8ec9dd80f8a1591c 501 main/binary-amd64/Packages.gz
+ f754bce605f07edfb182d4e462006790 943 main/binary-amd64/Packages
+ 96e22107ae1fd91d0e3729d714258630 607 main/binary-amd64/Packages.gz
  1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
 SHA1:
- 3fc7b130d4e9184368c91e9e0ae803c16564120b 780 main/binary-amd64/Packages
- ac6de66af22bd09011c51bb518f16ba370d9076d 501 main/binary-amd64/Packages.gz
+ 448e9eaf88b9ce3c9f3178cb308f3bdf16a231cc 943 main/binary-amd64/Packages
+ a4dcd654192324efce3633d8b93ecc391ae053ee 607 main/binary-amd64/Packages.gz
  923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
 SHA256:
- dab0c26343e433f954c8d780dcbda9f0b814c6824dfb2247cc5906ac67f254f6 780 main/binary-amd64/Packages
- d8d2ec2b67f9a4922629a86b9f176ce9a486768286eb58e7b7bfe9759963c672 501 main/binary-amd64/Packages.gz
+ 572c1f6b31ba4e32523c9fb99ed8c97cf8060ba699173cd78395fdc97c380f22 943 main/binary-amd64/Packages
+ 69e4bd88f7995deaadcf9199acdc9de5a39cd791c17201a46440c991cecd6b30 607 main/binary-amd64/Packages.gz
  102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEsTEUHwpqo99I2jhKJfhASNcAcIUFAl72k0UACgkQJfhASNcA
-cIUWbg//TaUJv2SPSJ+0p43hNEZOwB8R/ENy69GFZHLvPoia6Elwh9Gb7gcBD8Ja
-MvNeoljmD4GvVgHBzI2zahMnCfOUaJ8mv5dfkxM63fFDBfZFr7cFl/O9N37BiC3q
-skE3ZEVdaDV9X7i/5Os5P5wqIPfd6xswQjh3ynsO1M2ibt73mlfIfKjbUnLWLNpA
-e3TVjigxZx+rPvpDBu8sPQEUkBMAGE8hn+5qK4Rgp3VDTxrfbPpR1iYx6FdOS8/S
-OL8eBuZUBm8pwSMl5PH7zBCALGBc8srgZH9MQ4z6qeAnKEN4KkDKUt2vbAUEjWWI
-DlY8QJJPbWzlg+YJTBIT5ORMIfBmEJNi+v6y9DNxbY+/xk+DEGPNOOKo4R2nPNrz
-Xl0S8QX1Kf5neHV68DEN4W9oqZOmM9VXgHPO4NxpZSj41zxfwi1FSLu8PTh1XRnc
-gsbjt8iYBC/aa/JfkMAoou/bazZ9dfnz43M2ptYnfX1PebGMeW4ZCWOgnin/SJce
-6lzt9g1tNzw9YV0NtRJLAP3sZljxIeJoWUm/CWWSEyWjDIzrtO1oYy3JxlUu6FCG
-JD0k80SprRyKMccjpJ3ck39Cxe8aexuUBoGLcC39Q40hDTpcj2SXe9n/X8qITZE5
-YFdiwfee4U9Quf48YQGd4Ys+rtjOVRJkjykOk6LPgOFW2oQ5XuI=
-=UhrM
+iQIzBAEBCgAdFiEEsTEUHwpqo99I2jhKJfhASNcAcIUFAl8HSowACgkQJfhASNcA
+cIVOGA//RtIA+1SkG5kYHDfnbuYeGPTwVnOu8B4+kxd04tc3Cd16XbdJsy27Slfr
+YiEkuzfFP3y29bDF+N3lTvzrGMB4teEr0mg21X2PmKTVhpf3AvZ2y17/cH98iygF
+4dC3C0FDpcEtRydjy4fKYtccYmlHMOFujmIbMDeGHo5v9YQl72I+LIs6o+D6smzW
+cd4CNB4k66g25AfxMcnxGbX+lLDmdc5qvKyXGVvR9+dKwGzNKIK+/nL0xr3nKkt0
++f7AwK8ZKevfmoMTrpi0fKMfzRfj2f0MhR43ICGmJLFNAk18yT+Ulc5UPobH+Gl7
+w2DkJTnPlkJJ9Oe8tGsykVOO4Fq/zXFcW4esgSq/MaRM8DvlkPS+eCAlItD5OKfq
+TIrrGCX3GbHXx9hb1OlcTBragNf89BpKcKrjcV0tmkGVEaodiSIhxM3Tpbjw2uLH
+vPfgXhTLzy8sytGtrPFuw0Q2Fcwz4Icw6UfoCWSHg6FTqFZHtSYabAR7CbHL4Xmk
+/MZRqALCh5GO28fjDAxtU5XbzGLGjTAmuwmMNBlZGY5PJahacSMjAhfCXU01qe1a
+CzKBK0u+AAT6AWtJvx2KgFeZGP8Vtlhd5QODZBPo7E9KzSpW8AqrKK1rB/iGEsAX
+2je5cUHdTVFrWxB4FSAsbwVhlBz1o8q3zqkeR99AOha4iuXpNWw=
+=WxyG
 -----END PGP SIGNATURE-----
