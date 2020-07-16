@@ -2,7 +2,7 @@
 This project is a Debian repository hosted on Github pages.
 ## Usage
 ```bash
-# Install some prerequisites needed by adding GPG public keys
+# Install some prerequisites needed by adding GPG public keys (could be removed later)
 $ sudo apt-get install gnupg ca-certificates
 
 # Import our GPG key:
