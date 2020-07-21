@@ -3,9 +3,9 @@ This project is a Debian repository hosted on Github pages.
 ## Usage
 ```bash
 # Install some prerequisites needed by adding GPG public keys
-$ sudo apt-get install gnupg ca-certificates
+$ sudo apt-get install gnupg ca-certificates curl
 
-# Import our GPG key:
+# Import our GPG key. Notice the hyphen at the end of line.
 $ curl -sS https://qv2ray.github.io/debian/pubkey.gpg | sudo apt-key add -
 
 # Add the our official APT repository:
