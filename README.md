@@ -1,12 +1,12 @@
 # Qv2ray Debian Repository
-This project is a Debian repository hosted on Github pages.
+This project is a Debian repository hosted on GitHub Pages.
 ## Usage
 ```bash
 # Install some prerequisites needed by adding GPG public keys
 $ sudo apt-get install gnupg ca-certificates curl
 
 # Import our GPG key. Notice the hyphen at the end of line.
-$ curl -sS https://qv2ray.github.io/debian/pubkey.gpg | sudo apt-key add -
+$ curl -sSL https://qv2ray.github.io/debian/pubkey.gpg | sudo apt-key add -
 
 # Add the our official APT repository:
 $ echo "deb https://qv2ray.github.io/debian/ stable main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
