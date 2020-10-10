@@ -16,7 +16,7 @@ $ curl -sSL https://qv2ray.net/debian/pubkey.gpg | sudo apt-key add -
 # Stable release of Debian / LTS release of Ubuntu:
 $ echo "deb [arch=amd64] https://qv2ray.net/debian/ stable main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
 # Debian testing/unstable and Ubuntu 20.10+
-# echo "deb [arch=amd64] https://qv2ray.net/debian/ unstable main" | sudo tee /etc/apt/sources.list.d/qv2ray.list debian testing/unstable and Ubuntu 20.10+)
+# echo "deb [arch=amd64] https://qv2ray.net/debian/ unstable main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
 
 # To update the APT index:
 $ sudo apt-get update
