@@ -21,7 +21,7 @@ $ sudo apt-get install gnupg ca-certificates curl
 $ curl -sSL https://qv2ray.net/debian/pubkey.gpg | sudo apt-key add -
 
 # Add the our official APT repository:
-$ echo "deb [arch=amd64] https://qv2ray.net/debian/ stable main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
+$ echo "deb [arch=amd64] https://qv2ray.net/debian/ $YOUR_DISTRIBUTION main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
 
 # To update the APT index:
 $ sudo apt-get update
@@ -42,7 +42,7 @@ $ sudo apt-get install gnupg ca-certificates curl
 $ curl -sSL https://raw.fastgit.org/Qv2ray/debian/master/pubkey.gpg | sudo apt-key add -
 
 # Add the our official APT repository:
-$ echo "deb [arch=amd64] https://raw.fastgit.org/Qv2ray/debian/master/ stable main" | sudo tee /etc/apt/sources.list.d/qv2ray-fastgit.list
+$ echo "deb [arch=amd64] https://raw.fastgit.org/Qv2ray/debian/master/ $YOUR_DISTRIBUTION main" | sudo tee /etc/apt/sources.list.d/qv2ray-fastgit.list
 $ sudo apt-get update
 
 # You can install Qv2ray from APT now:
