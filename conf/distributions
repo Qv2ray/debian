@@ -13,3 +13,11 @@ Architectures: amd64
 Components: main
 Description: Apt repository for project Qv2ray
 SignWith: 1DD38BB9
+
+Origin: Qv2ray
+Label: Qv2ray
+Codename: groovy
+Architectures: amd64
+Components: main
+Description: Apt repository for project Qv2ray
+SignWith: 1DD38BB9
