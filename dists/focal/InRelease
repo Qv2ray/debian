@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Qv2ray
+Label: Qv2ray
+Codename: focal
+Date: Sun, 25 Oct 2020 07:31:58 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for project Qv2ray
+MD5Sum:
+ 80a64992db27d78ee366d343aa539c27 924 main/binary-amd64/Packages
+ 2ca20dd809ad9fe73cd8108f7c2f733c 608 main/binary-amd64/Packages.gz
+ 1c3e55403455f14573f7eec0a267a417 112 main/binary-amd64/Release
+SHA1:
+ e48076787d0c9ea2dea858b822a69cc5eb08256e 924 main/binary-amd64/Packages
+ 55c8d27f76fcf2ef73f7c7d429e78b2e95f0a21d 608 main/binary-amd64/Packages.gz
+ 923e12dc099d807b329c26b74f6d5ade01e23167 112 main/binary-amd64/Release
+SHA256:
+ 42d1525f2bedae74317c18b9afdfd89c04bbc7eea50f14b6a9fa994175bda697 924 main/binary-amd64/Packages
+ 2fa5040993b09db18b82596f546273f5ea6f4888c958e672f3a43b71c42a7537 608 main/binary-amd64/Packages.gz
+ 102c06dc73f6f848bf2a365c83d84ebbe1707a66dba1c5887e2408b455e15165 112 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEsTEUHwpqo99I2jhKJfhASNcAcIUFAl+VKe4ACgkQJfhASNcA
+cIXUkxAAkh4IdL2EQGFsfXjzlC+7yOm2y4Fb0Z1sjC5JUAddIB9YXPnsBLNXnvgh
+iFsAWnH58ixFf7mLbaaq8ZHnrbX7/i4ljiJ9dvis3OPDTgtYm+MKLC65nleqC4HZ
+ZntqlHqqROnrnDD2KZTQd1mLZ8smD9dLoyWTBOH0Xoh4+DkksDbaLDf0y5ov2vPD
+jjpf6Wp6YuBoIkqpcCCx1vxHQbIU9k4Po1tWsX+2SL1wTwRxBQ0h67iNIM2/fNZE
+mJ3zhjxW8wLZ5GWsS3Q2ouKWmqbSTwyGVBd4wXEbcMf/Y94wOqoC7ioeNB4m94r2
+qr6mHdv8NKzqUOnwV55kMBVJ1B3SfArqFUCNUEuV8AM/g1Wya8d37HnZO4DvzN5e
+G5NFer+dbwPhhEtUCB+fDmt5RHSZGZU1ZucSePr7c91EmLy4ixDl1C0xRJEibOhr
+1pnBHq9Qq7vQ18SJa9c/EBsU8Ij1SP7cLCBQGjbXN0fJT9Biy67mIpbY9fMcnerR
+n/loNxsDgH1vSJ+rl+T5zA8E5Z5BzMy1atzYa98uat8kjpTHipOq01CZVGI/cuwt
+robbbp35wkynbgGHEcd5MNuMIgnoPymAMBskGTsuX5z/31oVW8cKNUR2mA7P5GSm
+HErmbm0VwK2gipZIueHoX4SIz6Xq8IUg6+BmKjO5cWnGw9B1LR0=
+=iDcn
+-----END PGP SIGNATURE-----
