@@ -13,6 +13,8 @@ This project is a Debian repository hosted on GitHub Pages.
 
 ### Official Repository
 
+NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstable`/`focal`/`groovy`...) below.
+
 ```bash
 # Install some prerequisites needed by adding GPG public keys
 $ sudo apt-get install gnupg ca-certificates curl
@@ -33,6 +35,8 @@ $ sudo apt-get install qv2ray
 ### FastGit Mirror (in case `qv2ray.github.io` is blocked)
 
 [![fastgit.org](https://img.shields.io/badge/powered--by-fastgit.org-blue)](https://fastgit.org/)
+
+NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstable`/`focal`/`groovy`...) below.
 
 ```bash
 # Install some prerequisites needed by adding GPG public keys
