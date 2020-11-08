@@ -13,42 +13,46 @@ This project is a Debian repository hosted on GitHub Pages.
 
 ### Official Repository
 
-NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstable`/`focal`/`groovy`...) below.
-
 ```bash
+
+# Install lsb-releases
+$ sudo apt install lsb-release
+
 # Install some prerequisites needed by adding GPG public keys
-$ sudo apt-get install gnupg ca-certificates curl
+$ sudo apt install gnupg ca-certificates curl
 
 # Import our GPG key. Notice the hyphen at the end of line.
 $ curl -sSL https://qv2ray.net/debian/pubkey.gpg | sudo apt-key add -
 
 # Add the our official APT repository:
-$ echo "deb [arch=amd64] https://qv2ray.net/debian/ $YOUR_DISTRIBUTION main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
+$ echo "deb [arch=amd64] https://qv2ray.net/debian/ `lsb_release -cs` main" | sudo tee /etc/apt/sources.list.d/qv2ray.list
 
 # To update the APT index:
-$ sudo apt-get update
+$ sudo apt update
 
 # You can install Qv2ray from APT now:
-$ sudo apt-get install qv2ray
+$ sudo apt install qv2ray
 ```
 
 ### FastGit Mirror (in case `qv2ray.github.io` is blocked)
 
 [![fastgit.org](https://img.shields.io/badge/powered--by-fastgit.org-blue)](https://fastgit.org/)
 
-NOTE: Replace `$YOUR_DISTRIBUTION` with your distribution code (`stable`/`unstable`/`focal`/`groovy`...) below.
-
 ```bash
+
+# Install lsb-releases
+$ sudo apt install lsb-release
+
 # Install some prerequisites needed by adding GPG public keys
-$ sudo apt-get install gnupg ca-certificates curl
+$ sudo apt install gnupg ca-certificates curl
 
 # Import our GPG key. Notice the hyphen at the end of line.
 $ curl -sSL https://raw.fastgit.org/Qv2ray/debian/master/pubkey.gpg | sudo apt-key add -
 
 # Add the our official APT repository:
-$ echo "deb [arch=amd64] https://raw.fastgit.org/Qv2ray/debian/master/ $YOUR_DISTRIBUTION main" | sudo tee /etc/apt/sources.list.d/qv2ray-fastgit.list
-$ sudo apt-get update
+$ echo "deb [arch=amd64] https://raw.fastgit.org/Qv2ray/debian/master/ `lsb_release -cs` main" | sudo tee /etc/apt/sources.list.d/qv2ray-fastgit.list
+$ sudo apt update
 
 # You can install Qv2ray from APT now:
-$ sudo apt-get install qv2ray
+$ sudo apt install qv2ray
 ```
