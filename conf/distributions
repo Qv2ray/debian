@@ -1,7 +1,7 @@
 Origin: Qv2ray
 Label: Qv2ray
 Codename: stable
-Architectures: amd64 i386 arm64
+Architectures: amd64 i386 arm64 mips64el
 Components: main
 Description: Apt repository for project Qv2ray
 SignWith: 1DD38BB9
@@ -9,7 +9,7 @@ SignWith: 1DD38BB9
 Origin: Qv2ray
 Label: Qv2ray
 Codename: unstable
-Architectures: amd64 i386 arm64
+Architectures: amd64 i386 arm64 mips64el
 Components: main
 Description: Apt repository for project Qv2ray
 SignWith: 1DD38BB9
