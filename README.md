@@ -32,7 +32,7 @@ $ sudo apt-get update
 $ sudo apt-get install qv2ray
 ```
 
-### FastGit Mirror (in case `qv2ray.github.io` is blocked)
+### FastGit UK Mirror (in case `qv2ray.github.io` is blocked)
 
 [![fastgit.org](https://img.shields.io/badge/powered--by-fastgit.org-blue)](https://fastgit.org/)
 
