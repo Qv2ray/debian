@@ -1,0 +1,5 @@
+Component: main
+Origin: Qv2ray
+Label: Qv2ray
+Architecture: arm64
+Description: Apt repository for project Qv2ray
