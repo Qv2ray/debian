@@ -1,7 +1,7 @@
 Origin: Qv2ray
 Label: Qv2ray
 Codename: stable
-Architectures: amd64 i386 arm64 mips64el
+Architectures: amd64 i386 arm64 mips64el armhf
 Components: main
 Description: Apt repository for project Qv2ray
 SignWith: 1DD38BB9
@@ -16,15 +16,7 @@ SignWith: 1DD38BB9
 
 Origin: Qv2ray
 Label: Qv2ray
-Codename: focal
-Architectures: amd64 i386
-Components: main
-Description: Apt repository for project Qv2ray
-SignWith: 1DD38BB9
-
-Origin: Qv2ray
-Label: Qv2ray
-Codename: groovy
+Codename: jammy
 Architectures: amd64 i386
 Components: main
 Description: Apt repository for project Qv2ray
